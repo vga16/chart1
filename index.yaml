@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  example-runtime-bundle:
+  - apiVersion: v1
+    created: 2019-05-03T01:27:53.466162832+02:00
+    description: A Helm chart for Kubernetes
+    digest: 6e0015cfe905bf468eb85063a1366faa5b37db41a00441bfe5f7dc801196a2d3
+    icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
+    name: example-runtime-bundle
+    urls:
+    - https://github.com/vga16/chart1/example-runtime-bundle-0.1.8.tgz
+    version: 0.1.8
+generated: 2019-05-03T01:27:53.465325401+02:00
